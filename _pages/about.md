@@ -2,7 +2,7 @@
 permalink: /
 title: "Elixir Security and Concurrency Summer School"
 excerpt: "Inaugural Intensive Course on Resilient & Distributed Systems Design"
-author_profile: false # Set to true if you want to use the left sidebar from _config.yml
+author_profile: true # Set to true if you want to use the left sidebar from _config.yml
 ---
 
 ## Elixir Security and Concurrency Summer School
