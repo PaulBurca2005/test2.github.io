@@ -22,8 +22,7 @@ author:
   name                  : "Elixir Summer School '26"
   bio                   : "Intensive hands-on training on Elixir, OTP, and scalable distributed systems."
   location              : "Bucharest, Romania"
-  employer              : "PDQ"
-  email                 : "organizers@example.org" 
+  employer              : "UNSTPB"
 
 # Publication Categories (Kept intact for theme parsing safety, but unused)
 publication_category:
