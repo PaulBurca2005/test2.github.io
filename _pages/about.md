@@ -1,18 +1,25 @@
 ---
 permalink: /
-title: "Elixir Security and Concurrency Summer School"
+title: "Elixir Summer School 2026"
 excerpt: "Inaugural Intensive Course on Resilient & Distributed Systems Design"
 author_profile: true # Set to true if you want to use the left sidebar from _config.yml
 ---
 
-## Elixir Security and Concurrency Summer School
+## Elixir Summer School
 
-Join us for the inaugural Elixir Security and Concurrency Summer School. Concurrent and distributed runtime architectures impact everyone's live-production systems, whether they are aware of it or not. This intensive program aims to introduce students to the paradigms of developing novel backend architectures focused solely on horizontal scaling and fault tolerance, regardless of the potential edge cases. Participants will enhance their knowledge of actor-model systems, the runtime threats or race conditions they face, and the protective, robust engineering measures that can be employed to counteract these system failures.
+Join us for the inaugural Elixir Summer School. Functional programming and actor-model concurrency are reshaping how we build resilient live-production systems. This intensive summer school introduces students to Elixir's powerful paradigms, moving from core functional foundations to distributed state management. Participants will build a complete, fault-tolerant game engine, mastering GenServers, supervision trees, real-time PubSub broadcasts, and background job processing with Oban. By the end, attendees will possess the practical engineering skills needed to test concurrent workflows and construct robust, highly scalable backend architectures.
 
 ---
 
-## Course Overview
-The Elixir Security and Concurrency Summer School will educate students on the engineering principles of the BEAM virtual machine, including process registration bottlenecks, dynamic supervisor manipulation, clustered sabotage networks, and state resilience. The course will also cover practical defense mechanisms to safeguard the data consistency and high availability of these architectures. Participants will engage in hands-on labs, interactive network clusters, and practical testing suites.
+## Administrative Details
+
+* **Timeline:** This summer school takes place June 25–28, 2026.
+* **Instructors:** Dragoș.
+* **Enrollment:** You need to enroll to participate.
+
+### Registration
+* **Repository Hub:** You can find the courses and technical lab demos here: [PLACE HOLDER](https://github.com/yourusername/your-repo-name)
+* **Application Portal:** Register now for the summer school session: [PLACE HOLDER](https://forms.example.org)
 
 ---
 
@@ -37,17 +44,5 @@ The Elixir Security and Concurrency Summer School will educate students on the e
 
 ---
 
-## Administrative Details
-
-* **Timeline:** This summer school takes place July 28–30, 2026.
-* **Instructors:** Andrei Ouatu, Andrei Dugăeșescu, Alex Deonise, Răzvan Rughiniș.
-* **Enrollment:** You need to enroll to participate. Space is limited due to node cluster sandbox infrastructure.
-
-### Resources & Links
-* **Repository Hub:** You can find the courses and technical lab demos here: [Elixir Security and Concurrency Summer School Courses](https://github.com/yourusername/your-repo-name)
-* **Application Portal:** Register now for the summer school session: [Register for Elixir Summer School](https://forms.example.org)
-
----
-
 ## Organizational Partners
-The Elixir Security and Concurrency Summer School is organized by the privacy and systems community at the **Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest**, supported by our industry partners: **Keysight Technologies Romania** (our main industry partner).
+The Elixir Security and Concurrency Summer School is organized by the **Faculty of Automatic Control and Computers, University POLITEHNICA of Bucharest**, supported by our industry partners: **PDQ**.
