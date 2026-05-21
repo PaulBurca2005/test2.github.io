@@ -7,7 +7,7 @@ author_profile: true # Set to true if you want to use the left sidebar from _con
 
 ## Elixir Summer School
 
-Join us for the first edition of Elixir Summer School! This summer we will be introducing students to a functional programming language designed for handling millions of processes at once. From core functional foundations to complex distributed state management, the lessons are structured to teach the essentials of Elixir programming. Participants will build a complete, fault-tolerant game engine, mastering GenServers for state management, supervision trees for crash recovery, "PubSub" (for including in your registration form down below), and Oban for background job processing. By the end, attendees will possess the practical engineering skills needed to test concurrent workflows and construct robust, highly scalable backend architectures.
+Join us for the first edition of Elixir Summer School! This summer we will be introducing students to a functional programming language designed for handling millions of processes at once. From core functional foundations to complex distributed state management, the lessons are structured to teach the essentials of Elixir programming. Participants will build a complete, fault-tolerant game engine, mastering GenServers for state management, supervision trees for crash recovery, PubSub for including in your registration form down below to increase the chances of getting accepted, and Oban for background job processing. By the end, attendees will possess the practical engineering skills needed to test concurrent workflows and construct robust, highly scalable backend architectures.
 
 ---
 
