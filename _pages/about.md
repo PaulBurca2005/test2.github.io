@@ -44,6 +44,7 @@ Join us for the first edition of Elixir Summer School! This summer we will be in
 
 ### DAY 4: Rubber meets the road
 * **Elixir Hackathon:** At the end of our training we will hold a hackathon based on which our partners at PDQ will offer 5 summer internships for july, august, september and prizes for the best projects
+
 ---
 
 ## Organizational Partners
