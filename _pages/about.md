@@ -7,19 +7,19 @@ author_profile: true # Set to true if you want to use the left sidebar from _con
 
 ## Elixir Summer School
 
-Join us for the inaugural Elixir Summer School. Functional programming and actor-model concurrency are reshaping how we build resilient live-production systems. This intensive summer school introduces students to Elixir's powerful paradigms, moving from core functional foundations to distributed state management. Participants will build a complete, fault-tolerant game engine, mastering GenServers, supervision trees, real-time PubSub broadcasts, and background job processing with Oban. By the end, attendees will possess the practical engineering skills needed to test concurrent workflows and construct robust, highly scalable backend architectures.
+Join us for the first edition of Elixir Summer School! This summer we will be introducing students to a functional programming language designed for handling millions of processes at once. From core functional foundations to complex distributed state management, the lessons are structured to teach the essentials of Elixir programming. Participants will build a complete, fault-tolerant game engine, mastering GenServers for state management, supervision trees for crash recovery, "PubSub" (for including in your registration form down below), and Oban for background job processing. By the end, attendees will possess the practical engineering skills needed to test concurrent workflows and construct robust, highly scalable backend architectures.
 
 ---
 
 ## Administrative Details
 
 * **Timeline:** This summer school takes place June 25–28, 2026.
-* **Instructors:** Dragoș.
+* **Instructors:** Dragoș Dumitru.
 * **Enrollment:** You need to enroll to participate.
 
 ### Registration
-* **Repository Hub:** You can find the courses and technical lab demos here: [PLACE HOLDER](https://github.com/yourusername/your-repo-name)
-* **Application Portal:** Register now for the summer school session: [PLACE HOLDER](https://forms.example.org)
+* **Repository Hub:** You can find the courses and technical lab demos here: [COMING SOON](https://github.com/yourusername/your-repo-name)
+* **Application Portal:** Register now for the summer school session: [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScAj9sUBs-hb0u9gQuDNitn9t9Gm1IKvuzWsQmoD7GpyB4hCg/viewform?usp=dialog)
 
 ---
 
@@ -42,6 +42,8 @@ Join us for the inaugural Elixir Summer School. Functional programming and actor
 * **Oban Background Jobs:** Exploring transactional job processing, analyzing how queue-backed systems differ from bare asynchronous processes, job scheduling strategies, and exponential backoff retry configurations.
 * **Testing Concurrent Systems:** Asserting properties on asynchronous workflows, mailbox behaviors, and isolation boundaries inside the test suite.
 
+### DAY 4: Rubber meets the road
+* **Elixir Hackathon:** At the end of our training we will hold a hackathon based on which our partners at PDQ will offer 5 summer internships for july, august, september and prizes for the best projects
 ---
 
 ## Organizational Partners
